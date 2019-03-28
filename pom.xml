@@ -9,9 +9,9 @@
   <version>0.0.1-SNAPSHOT</version>  
 <name>Maven Hello World Webapp</name>
   <url>http://maven.apache.org</url>
-<configuration>
-	<failOnMissingWebXml>false</failOnMissingWebXml>
-</configuration>
+<properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>   
+</properties>
 	
   <build>
     <finalName>javawebapp</finalName>
