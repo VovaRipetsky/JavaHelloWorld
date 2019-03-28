@@ -26,9 +26,7 @@
     
   </dependencies>
 	
-	<properties>
-    <failOnMissingWebXml>false</failOnMissingWebXml>   
-</properties>
+	
 	
   <build>
     <finalName>javawebapp</finalName>
