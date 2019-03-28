@@ -26,6 +26,6 @@
     
   </dependencies>
   <build>
-    <finalName>mvnwebapp</finalName>
+    <finalName>javawebapp</finalName>
   </build>
 </project>
