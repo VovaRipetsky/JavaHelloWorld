@@ -26,7 +26,9 @@
     
   </dependencies>
 	
-	
+	<configuration>
+				<failOnMissingWebXml>false</failOnMissingWebXml>
+			</configuration>
 	
   <build>
     <finalName>javawebapp</finalName>
